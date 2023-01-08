@@ -1,1 +1,0 @@
-(()=>{"use strict";const s=new class{constructor(){this.map=new Map}add(s,t){this.map.set(s,t)}translate(s){return this.map.has(s)?this.map.get(s):"Unknown error"}};console.log(s)})();
